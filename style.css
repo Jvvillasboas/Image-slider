@@ -1,6 +1,7 @@
 body{
     margin: 0;
     font-family: monospace;
+    padding-top: 100px;
 }
 .slider{
     width: 1300px;
